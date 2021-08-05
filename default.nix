@@ -18,5 +18,5 @@ let
     ds-value    = pkg ./ds-value;
     ds-vault    = pkg ./ds-vault;
     erc20       = pkg ./erc20;
-  };
+  };  
 in dappsys
